@@ -1,0 +1,872 @@
+{
+  "comment-foods" : {
+    "-KXb-Y29EyELF5adgro_" : {
+      "-KXjQxZZ6QZEKTPiMdgC" : {
+        "content" : "thơm ngon quá chừng à",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXoH1niqxD1IBdgonJl" : {
+        "content" : "Món này ngon đó",
+        "uid" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    },
+    "-KXb0dZO3I3Ra94DZaFP" : {
+      "-KXuYn9x1ahVVGi4th_G" : {
+        "content" : "ok",
+        "uid" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      }
+    },
+    "-KXb7opOsrv88QNJBvyk" : {
+      "-KXnj9ozYctr2PH3iwvU" : {
+        "content" : "Món này ngon mình ăn rồi ngon lắm",
+        "uid" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    },
+    "-KXb8hytOSis7lBhtwki" : {
+      "-KXgfTkzyrhzTZDwc7_w" : {
+        "content" : "Bánh bánh bao là muốn ăn rồi. Ôi ngon quá xá.",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      }
+    },
+    "-KXb9r6AF8KVcYH1NjRI" : {
+      "-KXggnGlKoimEgV572SE" : {
+        "content" : "Gà nướng phô mai béo ngậy ngon quá đi thôi.",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      }
+    },
+    "-KXbAfXTjEFrtNkwbs5j" : {
+      "-KXgekPOoA76V28YjW6-" : {
+        "content" : "Không ngon gì hết",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXgeoc2LyjPdXl9aMFV" : {
+        "content" : "thôi không ngon nên không mua đâu",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXgexD0q6MzFgfe86K_" : {
+        "content" : "Nếu tui mua có được giảm giá không.?",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXgexDOoTq0fqHcBXYd" : {
+        "content" : "Nếu tui mua có được giảm giá không.?",
+        "uid" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXuG7V7O0v9LHmApXhd" : {
+        "content" : "Not good with me :(",
+        "uid" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      }
+    },
+    "-KXbC78BMmjZXCEtnWb4" : {
+      "-KXocqXiArzFrYeh4Xr8" : {
+        "content" : "Món ngon quá",
+        "uid" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    },
+    "-KXbCoYGddSSykUman9S" : {
+      "-KXoCkpqLU8DVhjT4i7O" : {
+        "content" : "Món ngon quá.",
+        "uid" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    },
+    "-KXbDQ8607xhtyD04zte" : {
+      "-KXnoK_4FWDcubIsMC1R" : {
+        "content" : "Mực muối ớt ăn tạm được nhưng giá hơi cao.",
+        "uid" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    }
+  },
+  "foods" : {
+    "-KXb-Y29EyELF5adgro_" : {
+      "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+      "nameFood" : "Bánh Toast Matcha",
+      "priceFood" : "100000",
+      "talkAboutFood" : "Bánh rất ngon, hợp khẩu vị của mọi người, nguyên liệu sạch sẻ an toàn tốt cho sức khoẻ. Bánh không quá ngọt thích hợp cho những bạn sợ tăng cân",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXb0dZO3I3Ra94DZaFP" : {
+      "addressFood" : "Moon Fast Food-53 Xuân Hồng , Quận Tân Bình, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_22_53.jpg?alt=media&token=a7304881-0f6c-499b-96bf-38bd7ac74d42",
+      "nameFood" : "Mì Ramen",
+      "priceFood" : "75000",
+      "talkAboutFood" : "Mì Ramen rất ngon, nước dùng vừa miệng đậm đà. Sợi mì dai dai ngon ngon. Thịt đại ngon không thể bỏ qua được.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXb7opOsrv88QNJBvyk" : {
+      "addressFood" : "131 Nguyễn Phúc Nguyên,  P.1 0 , Quận 3, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_54_14.jpg?alt=media&token=bf49b2a2-3af7-477e-bba8-e55b82a9345e",
+      "nameFood" : "The Gangs - Grill & Beer",
+      "priceFood" : "250000",
+      "talkAboutFood" : "Combo cừu Úc hoành tráng hấp dẫn , mùi vị thơm ngon hoàn hảo. Giá cả hợp lý . Ngon không cưởng lại.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXb8hytOSis7lBhtwki" : {
+      "addressFood" : "Điểm tâm Hong Kong-105 Ngô Quyền, Quận 5, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_58_09.jpg?alt=media&token=eaba6e4e-dfe0-4f6f-99d4-443847ba7fa8",
+      "nameFood" : "Bánh Bao Kim Sa",
+      "priceFood" : "20000",
+      "talkAboutFood" : "Bánh nóng hổi, thơm ngon, vỏ mềm, Kim sa béo mặn. Không làm bạn hối hận khi thử món này.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXb9r6AF8KVcYH1NjRI" : {
+      "addressFood" : "Vee Ayy Food 345/84 Trần Hưng Đạo, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_03_08.jpg?alt=media&token=6995ce80-eca7-4aff-8aa8-08333c6382dd",
+      "nameFood" : "Gà nướng Phô Mai",
+      "priceFood" : "150000",
+      "talkAboutFood" : "Hấp dẫn quá đi thôi. Gà nướng Phô Mai thơm ngon. Không thể dừng ăn. Giá cả hợp lý. Thật là không thêt tin nổi.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXbAfXTjEFrtNkwbs5j" : {
+      "addressFood" : "Quán Ụt Ụt 168 Võ Văn Kiệt, Cầu Ông Lãnh,Quận 1, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_06_43.jpg?alt=media&token=976eade0-796b-4abc-9817-73f42582a183",
+      "nameFood" : "Sườn heo nướng gỗ điều",
+      "priceFood" : "600000",
+      "talkAboutFood" : "Sườn heo thơm ngon nướng bằng gỗ điều giữ được hương bị của sườn non. Món ăn hấp dẫn.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXbBOhpg9BmTWZ1r9B9" : {
+      "addressFood" : "Tầng 3 chúng cư 26 Lý Tự Trọng, P.Bến Nghé, Quận 1, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_09_51.jpg?alt=media&token=e4a32c99-d1cc-445b-bd57-4f8bfb863182",
+      "nameFood" : "Cafe & Birto",
+      "priceFood" : "30000",
+      "talkAboutFood" : "Gọi là có nhanh không tưởng, hương vị cafee đậm đà thơm ngon.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXbC78BMmjZXCEtnWb4" : {
+      "addressFood" : "220/118 Lê Văn Sỹ, P.14, Quận 3, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_13_02.jpg?alt=media&token=516c8891-cc19-4212-9f51-4ac403079c14",
+      "nameFood" : "Hàu Chóp Chép",
+      "priceFood" : "200000",
+      "talkAboutFood" : "Chà chà hàu tươi sống cùng với chép chép đem lại cho chúng ta  một bữa ngon tuyệt. Giá hợp lý.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXbCoYGddSSykUman9S" : {
+      "addressFood" : "346 Trường Sa, P.2, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_16_03.jpg?alt=media&token=0cec14d4-9332-4fd5-b983-8755c413958b",
+      "nameFood" : "Papa's Chicken",
+      "priceFood" : "200000",
+      "talkAboutFood" : "Món ăn lý tưởng ,thơm ngon mà giá lại hợp lý. Thịt gà thơm ngon béo ít mỡ không thể bỏ qua",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXbDQ8607xhtyD04zte" : {
+      "addressFood" : "Vincom center 70-72 Lê Thánh Tông, Bến Nghé, Quận 1, thành phố Hồ Chí Minh",
+      "favoriteFood" : 0,
+      "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_18_42.jpg?alt=media&token=dafa23fe-ee3a-4515-882f-bd00022b5a28",
+      "nameFood" : "Mực nướng muối ớt",
+      "priceFood" : "260000",
+      "talkAboutFood" : "Mực tươi sống nướng vừa chín tới thời muối ớt cay nồng thơm ngon.",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Nguyễn Văn Trà"
+    },
+    "-KXg6N0PiQosZj8xAGT4" : {
+      "addressFood" : "go vap",
+      "favoriteFood" : 0,
+      "idUser" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fy9ZcmTOY18gz2ocLAsQvSBjPkbl12016_11_28_13_06_02.jpg?alt=media&token=d90cdef2-0414-4188-bb94-011b3a70b5e8",
+      "nameFood" : "Banh' den",
+      "priceFood" : "10000",
+      "talkAboutFood" : "Let talk",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "huuhoang"
+    },
+    "-KXpRx2Qjh-pt22Pbgjt" : {
+      "addressFood" : "ton dan",
+      "favoriteFood" : 0,
+      "idUser" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fa1l5EW2WwHSGKt4R2JIGSUbwj2o22016_11_30_20_36_49.jpg?alt=media&token=de552afc-4d80-4064-a07f-9594add3b00a",
+      "nameFood" : "name",
+      "priceFood" : "1000",
+      "talkAboutFood" : "ok",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "Darkness"
+    },
+    "-KXuBKC1QXFT4DRCfWo5" : {
+      "addressFood" : "12 nguyen van bao",
+      "favoriteFood" : 0,
+      "idUser" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fy9ZcmTOY18gz2ocLAsQvSBjPkbl12016_12_01_06_42_22.jpg?alt=media&token=33487d2a-0f51-4899-adf2-7e51b5acb5f8",
+      "nameFood" : "FoodName",
+      "priceFood" : "100000",
+      "talkAboutFood" : "this verry good",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "huuhoang"
+    },
+    "-KXuF6-MIlgI_vCRiyCl" : {
+      "addressFood" : "Mien Dong",
+      "favoriteFood" : 0,
+      "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_06_58_44.jpg?alt=media&token=7082f2e8-1568-4285-b6ea-fe863f12a33b",
+      "nameFood" : "Kape cake",
+      "priceFood" : "1902200",
+      "talkAboutFood" : "This good",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "ngoc"
+    },
+    "-KXuG1-G9usnDDFB2FTG" : {
+      "addressFood" : "119 Tran Hung Dao",
+      "favoriteFood" : 0,
+      "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_07_02_53.jpg?alt=media&token=dbdac728-6ce6-402d-8386-e2d8d10e94e6",
+      "nameFood" : "Black cake",
+      "priceFood" : "19008198",
+      "talkAboutFood" : "This verry good",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "ngoc"
+    },
+    "-KXuVQcy3KZt6RT7ubFR" : {
+      "addressFood" : "daklak",
+      "favoriteFood" : 0,
+      "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_20_09_41.jpg?alt=media&token=0e94f4bb-2c27-407d-b39d-55ee80dc1b55",
+      "nameFood" : "Huu",
+      "priceFood" : "19008190",
+      "talkAboutFood" : "kaka",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "ngoc"
+    },
+    "-KXyUZuyj2xzfNJTi9O5" : {
+      "addressFood" : "haha",
+      "favoriteFood" : 0,
+      "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_02_14_44_44.jpg?alt=media&token=7112a7ed-a07b-463c-8024-7b208638136a",
+      "nameFood" : "huu",
+      "priceFood" : "1600",
+      "talkAboutFood" : "kaka",
+      "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "userName" : "ngoc"
+    }
+  },
+  "order-new" : {
+    "8z7wfCTXWtMXUGkLPFw0yIqd9jz2" : {
+      "-KXocxwJtvZ1GzwUO3NI" : {
+        "addressFood" : "220/118 Lê Văn Sỹ, P.14, Quận 3, thành phố Hồ Chí Minh",
+        "addressKh" : "Thủ Đức, Hồ Chí Minh",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+        "connentReview" : "",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXocxwJtvZ1GzwUO3NI",
+        "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_13_02.jpg?alt=media&token=516c8891-cc19-4212-9f51-4ac403079c14",
+        "namFood" : "Hàu Chóp Chép",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Lê Thành Đạt",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "200000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXpSAalSSiy5B36Qj4d" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "tran hung dai",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+        "connentReview" : "",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXpSAalSSiy5B36Qj4d",
+        "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Lê Thành Đạt",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      }
+    },
+    "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2" : {
+      "-KXnypdXFM9Lru9WiMzD" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "Khu phố 6, phường Linh Trung, quận Thủ Đức, thành phố Hồ Chí Minh",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXnypdXFM9Lru9WiMzD",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXp8sAC5xIB6eOW4kbv" : {
+        "addressFood" : "131 Nguyễn Phúc Nguyên,  P.1 0 , Quận 3, thành phố Hồ Chí Minh",
+        "addressKh" : "12 nguyen van bao",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "",
+        "idKh" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+        "idOrder" : "-KXp8sAC5xIB6eOW4kbv",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_54_14.jpg?alt=media&token=bf49b2a2-3af7-477e-bba8-e55b82a9345e",
+        "namFood" : "The Gangs - Grill & Beer",
+        "nameKh" : "huuhoang",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676447386",
+        "priceFood" : "250000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXuFp6Ccv8B7yhL7H7Z" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "12 Ton Dan",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "",
+        "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "idOrder" : "-KXuFp6Ccv8B7yhL7H7Z",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "ngoc",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676443372",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXyUft09BZSNotG7T7o" : {
+        "addressFood" : "haha",
+        "addressKh" : "tran hug dao",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "",
+        "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "idOrder" : "-KXyUft09BZSNotG7T7o",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_02_14_44_44.jpg?alt=media&token=7112a7ed-a07b-463c-8024-7b208638136a",
+        "namFood" : "huu",
+        "nameKh" : "ngoc",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676443372",
+        "priceFood" : "1600",
+        "review" : 0,
+        "status" : 1
+      }
+    }
+  },
+  "orders" : {
+    "-KXnypdXFM9Lru9WiMzD" : {
+      "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+      "addressKh" : "Khu phố 6, phường Linh Trung, quận Thủ Đức, thành phố Hồ Chí Minh",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+      "connentReview" : "",
+      "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+      "idOrder" : "-KXnypdXFM9Lru9WiMzD",
+      "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+      "namFood" : "Bánh Toast Matcha",
+      "nameKh" : "Darkness",
+      "nameShipper" : "Dương Bá Hà",
+      "phoneNumberKh" : "01223445817",
+      "priceFood" : "100000",
+      "review" : 0,
+      "status" : 1
+    },
+    "-KXocxwJtvZ1GzwUO3NI" : {
+      "addressFood" : "220/118 Lê Văn Sỹ, P.14, Quận 3, thành phố Hồ Chí Minh",
+      "addressKh" : "Thủ Đức, Hồ Chí Minh",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+      "connentReview" : "",
+      "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+      "idOrder" : "-KXocxwJtvZ1GzwUO3NI",
+      "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_13_02.jpg?alt=media&token=516c8891-cc19-4212-9f51-4ac403079c14",
+      "namFood" : "Hàu Chóp Chép",
+      "nameKh" : "Darkness",
+      "nameShipper" : "Lê Thành Đạt",
+      "phoneNumberKh" : "01223445817",
+      "priceFood" : "200000",
+      "review" : 0,
+      "status" : 1
+    },
+    "-KXp8sAC5xIB6eOW4kbv" : {
+      "addressFood" : "131 Nguyễn Phúc Nguyên,  P.1 0 , Quận 3, thành phố Hồ Chí Minh",
+      "addressKh" : "12 nguyen van bao",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+      "connentReview" : "",
+      "idKh" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+      "idOrder" : "-KXp8sAC5xIB6eOW4kbv",
+      "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_54_14.jpg?alt=media&token=bf49b2a2-3af7-477e-bba8-e55b82a9345e",
+      "namFood" : "The Gangs - Grill & Beer",
+      "nameKh" : "huuhoang",
+      "nameShipper" : "Dương Bá Hà",
+      "phoneNumberKh" : "01676447386",
+      "priceFood" : "250000",
+      "review" : 0,
+      "status" : 1
+    },
+    "-KXpSAalSSiy5B36Qj4d" : {
+      "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+      "addressKh" : "tran hung dai",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+      "connentReview" : "",
+      "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+      "idOrder" : "-KXpSAalSSiy5B36Qj4d",
+      "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+      "namFood" : "Bánh Toast Matcha",
+      "nameKh" : "Darkness",
+      "nameShipper" : "Lê Thành Đạt",
+      "phoneNumberKh" : "01223445817",
+      "priceFood" : "100000",
+      "review" : 0,
+      "status" : 1
+    },
+    "-KXuFp6Ccv8B7yhL7H7Z" : {
+      "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+      "addressKh" : "12 Ton Dan",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+      "connentReview" : "",
+      "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "idOrder" : "-KXuFp6Ccv8B7yhL7H7Z",
+      "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+      "namFood" : "Bánh Toast Matcha",
+      "nameKh" : "ngoc",
+      "nameShipper" : "Dương Bá Hà",
+      "phoneNumberKh" : "01676443372",
+      "priceFood" : "100000",
+      "review" : 0,
+      "status" : 1
+    },
+    "-KXyUft09BZSNotG7T7o" : {
+      "addressFood" : "haha",
+      "addressKh" : "tran hug dao",
+      "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+      "connentReview" : "",
+      "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "idOrder" : "-KXyUft09BZSNotG7T7o",
+      "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+      "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_02_14_44_44.jpg?alt=media&token=7112a7ed-a07b-463c-8024-7b208638136a",
+      "namFood" : "huu",
+      "nameKh" : "ngoc",
+      "nameShipper" : "Dương Bá Hà",
+      "phoneNumberKh" : "01676443372",
+      "priceFood" : "1600",
+      "review" : 0,
+      "status" : 1
+    }
+  },
+  "shipper" : {
+    "8z7wfCTXWtMXUGkLPFw0yIqd9jz2" : {
+      "address" : "Khu Phố 6, P.Linh Trung, Quận Thủ Đức, thành phố Hồ Chí Minh",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+      "dateofbirth" : "10/02/1995",
+      "dislike" : 0,
+      "email" : "tranv@magik.vn",
+      "id" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+      "like" : 0,
+      "name" : "Lê Thành Đạt",
+      "phonenumber" : "0123456789"
+    },
+    "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2" : {
+      "address" : "132 Nguyễn Phúc Nguyên, P.10, Quận 3, thành phố Hồ Chí Minh",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+      "dateofbirth" : "02/12/1890",
+      "dislike" : 0,
+      "email" : "duonghaba@gmail.com ",
+      "id" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+      "like" : 0,
+      "name" : "Dương Bá Hà",
+      "phonenumber" : "09055555555"
+    }
+  },
+  "user-foods" : {
+    "AIcpeB3ZwqQ52mTLnMesQTOgzN83" : {
+      "-KXb-Y29EyELF5adgro_" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "nameFood" : "Bánh Toast Matcha",
+        "priceFood" : "100000",
+        "talkAboutFood" : "Bánh rất ngon, hợp khẩu vị của mọi người, nguyên liệu sạch sẻ an toàn tốt cho sức khoẻ. Bánh không quá ngọt thích hợp cho những bạn sợ tăng cân",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXb0dZO3I3Ra94DZaFP" : {
+        "addressFood" : "Moon Fast Food-53 Xuân Hồng , Quận Tân Bình, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_22_53.jpg?alt=media&token=a7304881-0f6c-499b-96bf-38bd7ac74d42",
+        "nameFood" : "Mì Ramen",
+        "priceFood" : "75000",
+        "talkAboutFood" : "Mì Ramen rất ngon, nước dùng vừa miệng đậm đà. Sợi mì dai dai ngon ngon. Thịt đại ngon không thể bỏ qua được.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXb7opOsrv88QNJBvyk" : {
+        "addressFood" : "131 Nguyễn Phúc Nguyên,  P.1 0 , Quận 3, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_54_14.jpg?alt=media&token=bf49b2a2-3af7-477e-bba8-e55b82a9345e",
+        "nameFood" : "The Gangs - Grill & Beer",
+        "priceFood" : "250000",
+        "talkAboutFood" : "Combo cừu Úc hoành tráng hấp dẫn , mùi vị thơm ngon hoàn hảo. Giá cả hợp lý . Ngon không cưởng lại.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXb8hytOSis7lBhtwki" : {
+        "addressFood" : "Điểm tâm Hong Kong-105 Ngô Quyền, Quận 5, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_58_09.jpg?alt=media&token=eaba6e4e-dfe0-4f6f-99d4-443847ba7fa8",
+        "nameFood" : "Bánh Bao Kim Sa",
+        "priceFood" : "20000",
+        "talkAboutFood" : "Bánh nóng hổi, thơm ngon, vỏ mềm, Kim sa béo mặn. Không làm bạn hối hận khi thử món này.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXb9r6AF8KVcYH1NjRI" : {
+        "addressFood" : "Vee Ayy Food 345/84 Trần Hưng Đạo, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_03_08.jpg?alt=media&token=6995ce80-eca7-4aff-8aa8-08333c6382dd",
+        "nameFood" : "Gà nướng Phô Mai",
+        "priceFood" : "150000",
+        "talkAboutFood" : "Hấp dẫn quá đi thôi. Gà nướng Phô Mai thơm ngon. Không thể dừng ăn. Giá cả hợp lý. Thật là không thêt tin nổi.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXbAfXTjEFrtNkwbs5j" : {
+        "addressFood" : "Quán Ụt Ụt 168 Võ Văn Kiệt, Cầu Ông Lãnh,Quận 1, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_06_43.jpg?alt=media&token=976eade0-796b-4abc-9817-73f42582a183",
+        "nameFood" : "Sườn heo nướng gỗ điều",
+        "priceFood" : "600000",
+        "talkAboutFood" : "Sườn heo thơm ngon nướng bằng gỗ điều giữ được hương bị của sườn non. Món ăn hấp dẫn.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXbBOhpg9BmTWZ1r9B9" : {
+        "addressFood" : "Tầng 3 chúng cư 26 Lý Tự Trọng, P.Bến Nghé, Quận 1, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_09_51.jpg?alt=media&token=e4a32c99-d1cc-445b-bd57-4f8bfb863182",
+        "nameFood" : "Cafe & Birto",
+        "priceFood" : "30000",
+        "talkAboutFood" : "Gọi là có nhanh không tưởng, hương vị cafee đậm đà thơm ngon.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXbC78BMmjZXCEtnWb4" : {
+        "addressFood" : "220/118 Lê Văn Sỹ, P.14, Quận 3, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_13_02.jpg?alt=media&token=516c8891-cc19-4212-9f51-4ac403079c14",
+        "nameFood" : "Hàu Chóp Chép",
+        "priceFood" : "200000",
+        "talkAboutFood" : "Chà chà hàu tươi sống cùng với chép chép đem lại cho chúng ta  một bữa ngon tuyệt. Giá hợp lý.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXbCoYGddSSykUman9S" : {
+        "addressFood" : "346 Trường Sa, P.2, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_16_03.jpg?alt=media&token=0cec14d4-9332-4fd5-b983-8755c413958b",
+        "nameFood" : "Papa's Chicken",
+        "priceFood" : "200000",
+        "talkAboutFood" : "Món ăn lý tưởng ,thơm ngon mà giá lại hợp lý. Thịt gà thơm ngon béo ít mỡ không thể bỏ qua",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      },
+      "-KXbDQ8607xhtyD04zte" : {
+        "addressFood" : "Vincom center 70-72 Lê Thánh Tông, Bến Nghé, Quận 1, thành phố Hồ Chí Minh",
+        "favoriteFood" : 0,
+        "idUser" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_18_42.jpg?alt=media&token=dafa23fe-ee3a-4515-882f-bd00022b5a28",
+        "nameFood" : "Mực nướng muối ớt",
+        "priceFood" : "260000",
+        "talkAboutFood" : "Mực tươi sống nướng vừa chín tới thời muối ớt cay nồng thơm ngon.",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Nguyễn Văn Trà"
+      }
+    },
+    "a1l5EW2WwHSGKt4R2JIGSUbwj2o2" : {
+      "-KXpRx2Qjh-pt22Pbgjt" : {
+        "addressFood" : "ton dan",
+        "favoriteFood" : 0,
+        "idUser" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fa1l5EW2WwHSGKt4R2JIGSUbwj2o22016_11_30_20_36_49.jpg?alt=media&token=de552afc-4d80-4064-a07f-9594add3b00a",
+        "nameFood" : "name",
+        "priceFood" : "1000",
+        "talkAboutFood" : "ok",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "Darkness"
+      }
+    },
+    "kXSeu0WpC3cGfLwwIobmQmThoXD3" : {
+      "-KXuF6-MIlgI_vCRiyCl" : {
+        "addressFood" : "Mien Dong",
+        "favoriteFood" : 0,
+        "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_06_58_44.jpg?alt=media&token=7082f2e8-1568-4285-b6ea-fe863f12a33b",
+        "nameFood" : "Kape cake",
+        "priceFood" : "1902200",
+        "talkAboutFood" : "This good",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      },
+      "-KXuG1-G9usnDDFB2FTG" : {
+        "addressFood" : "119 Tran Hung Dao",
+        "favoriteFood" : 0,
+        "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_07_02_53.jpg?alt=media&token=dbdac728-6ce6-402d-8386-e2d8d10e94e6",
+        "nameFood" : "Black cake",
+        "priceFood" : "19008198",
+        "talkAboutFood" : "This verry good",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      },
+      "-KXuVQcy3KZt6RT7ubFR" : {
+        "addressFood" : "daklak",
+        "favoriteFood" : 0,
+        "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_01_20_09_41.jpg?alt=media&token=0e94f4bb-2c27-407d-b39d-55ee80dc1b55",
+        "nameFood" : "Huu",
+        "priceFood" : "19008190",
+        "talkAboutFood" : "kaka",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      },
+      "-KXyUZuyj2xzfNJTi9O5" : {
+        "addressFood" : "haha",
+        "favoriteFood" : 0,
+        "idUser" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_02_14_44_44.jpg?alt=media&token=7112a7ed-a07b-463c-8024-7b208638136a",
+        "nameFood" : "huu",
+        "priceFood" : "1600",
+        "talkAboutFood" : "kaka",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "ngoc"
+      }
+    },
+    "y9ZcmTOY18gz2ocLAsQvSBjPkbl1" : {
+      "-KXg6N0PiQosZj8xAGT4" : {
+        "addressFood" : "go vap",
+        "favoriteFood" : 0,
+        "idUser" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fy9ZcmTOY18gz2ocLAsQvSBjPkbl12016_11_28_13_06_02.jpg?alt=media&token=d90cdef2-0414-4188-bb94-011b3a70b5e8",
+        "nameFood" : "Banh' den",
+        "priceFood" : "10000",
+        "talkAboutFood" : "Let talk",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "huuhoang"
+      },
+      "-KXuBKC1QXFT4DRCfWo5" : {
+        "addressFood" : "12 nguyen van bao",
+        "favoriteFood" : 0,
+        "idUser" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+        "imageFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2Fy9ZcmTOY18gz2ocLAsQvSBjPkbl12016_12_01_06_42_22.jpg?alt=media&token=33487d2a-0f51-4899-adf2-7e51b5acb5f8",
+        "nameFood" : "FoodName",
+        "priceFood" : "100000",
+        "talkAboutFood" : "this verry good",
+        "userAvatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+        "userName" : "huuhoang"
+      }
+    }
+  },
+  "user-orders" : {
+    "a1l5EW2WwHSGKt4R2JIGSUbwj2o2" : {
+      "-KXnypdXFM9Lru9WiMzD" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "Khu phố 6, phường Linh Trung, quận Thủ Đức, thành phố Hồ Chí Minh",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "not gôd",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXnypdXFM9Lru9WiMzD",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXocxwJtvZ1GzwUO3NI" : {
+        "addressFood" : "220/118 Lê Văn Sỹ, P.14, Quận 3, thành phố Hồ Chí Minh",
+        "addressKh" : "Thủ Đức, Hồ Chí Minh",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+        "connentReview" : "",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXocxwJtvZ1GzwUO3NI",
+        "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_02_13_02.jpg?alt=media&token=516c8891-cc19-4212-9f51-4ac403079c14",
+        "namFood" : "Hàu Chóp Chép",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Lê Thành Đạt",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "200000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXpSAalSSiy5B36Qj4d" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "tran hung dai",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2F8ea5fa69-cde5-4635-99e4-4e464079587b.jpg?alt=media&token=60233dae-80ff-4408-be97-c09354dfe69d",
+        "connentReview" : "",
+        "idKh" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+        "idOrder" : "-KXpSAalSSiy5B36Qj4d",
+        "idShipper" : "8z7wfCTXWtMXUGkLPFw0yIqd9jz2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "Darkness",
+        "nameShipper" : "Lê Thành Đạt",
+        "phoneNumberKh" : "01223445817",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      }
+    },
+    "kXSeu0WpC3cGfLwwIobmQmThoXD3" : {
+      "-KXuFp6Ccv8B7yhL7H7Z" : {
+        "addressFood" : "110 Lê Văn Sỹ, Phường 10, Quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "addressKh" : "12 Ton Dan",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "good",
+        "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "idOrder" : "-KXuFp6Ccv8B7yhL7H7Z",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_18_04.jpg?alt=media&token=0938a54c-1986-45f1-971c-b4d2b8bdb8e4",
+        "namFood" : "Bánh Toast Matcha",
+        "nameKh" : "ngoc",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676443372",
+        "priceFood" : "100000",
+        "review" : 0,
+        "status" : 1
+      },
+      "-KXyUft09BZSNotG7T7o" : {
+        "addressFood" : "haha",
+        "addressKh" : "tran hug dao",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "",
+        "idKh" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+        "idOrder" : "-KXyUft09BZSNotG7T7o",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FkXSeu0WpC3cGfLwwIobmQmThoXD32016_12_02_14_44_44.jpg?alt=media&token=7112a7ed-a07b-463c-8024-7b208638136a",
+        "namFood" : "huu",
+        "nameKh" : "ngoc",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676443372",
+        "priceFood" : "1600",
+        "review" : 0,
+        "status" : 1
+      }
+    },
+    "y9ZcmTOY18gz2ocLAsQvSBjPkbl1" : {
+      "-KXp8sAC5xIB6eOW4kbv" : {
+        "addressFood" : "131 Nguyễn Phúc Nguyên,  P.1 0 , Quận 3, thành phố Hồ Chí Minh",
+        "addressKh" : "12 nguyen van bao",
+        "avatarShipper" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fanh_the9112.jpg?alt=media&token=e1409208-060c-46da-898e-cf6158bdb975",
+        "connentReview" : "good",
+        "idKh" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+        "idOrder" : "-KXp8sAC5xIB6eOW4kbv",
+        "idShipper" : "kcLaQTLMTDfKaiE4g1NKeAEcZ7y2",
+        "imgFood" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/imagepost%2FAIcpeB3ZwqQ52mTLnMesQTOgzN832016_11_28_01_54_14.jpg?alt=media&token=bf49b2a2-3af7-477e-bba8-e55b82a9345e",
+        "namFood" : "The Gangs - Grill & Beer",
+        "nameKh" : "huuhoang",
+        "nameShipper" : "Dương Bá Hà",
+        "phoneNumberKh" : "01676447386",
+        "priceFood" : "250000",
+        "review" : 0,
+        "status" : 1
+      }
+    }
+  },
+  "users" : {
+    "AIcpeB3ZwqQ52mTLnMesQTOgzN83" : {
+      "address" : "",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "email" : "vantradk@gmail.com",
+      "id" : "AIcpeB3ZwqQ52mTLnMesQTOgzN83",
+      "name" : "Nguyễn Văn Trà",
+      "phoneNumber" : "01687075347"
+    },
+    "a1l5EW2WwHSGKt4R2JIGSUbwj2o2" : {
+      "address" : "",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "email" : "dkdarknessnvt@gmail.com",
+      "id" : "a1l5EW2WwHSGKt4R2JIGSUbwj2o2",
+      "name" : "Darkness",
+      "phoneNumber" : "01223445817"
+    },
+    "kXSeu0WpC3cGfLwwIobmQmThoXD3" : {
+      "address" : "",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "email" : "ngoc@gmail.com",
+      "id" : "kXSeu0WpC3cGfLwwIobmQmThoXD3",
+      "name" : "ngoc",
+      "phoneNumber" : "01676443372"
+    },
+    "y9ZcmTOY18gz2ocLAsQvSBjPkbl1" : {
+      "address" : "",
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/ziko-cc71c.appspot.com/o/avataruser%2Fman.png?alt=media&token=6534f344-0864-40c1-9b2a-3ce0e88e6efa",
+      "email" : "hoangduchuuvn@gmail.com",
+      "id" : "y9ZcmTOY18gz2ocLAsQvSBjPkbl1",
+      "name" : "huuhoang",
+      "phoneNumber" : "01676447386"
+    }
+  }
+}

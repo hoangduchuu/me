@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233550395506",
+    "firebase_url": "https://ziko-3769f.firebaseio.com",
+    "project_id": "ziko-3769f",
+    "storage_bucket": "ziko-3769f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233550395506:android:fca13b747b7a1ae3",
+        "android_client_info": {
+          "package_name": "vn.zikoteam.ziko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233550395506-koklsfnhnpa93mjisdljqcd37dfp3plk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.zikoteam.ziko",
+            "certificate_hash": "7598da9141d3a83d00802ab16716a4acac3c2771"
+          }
+        },
+        {
+          "client_id": "233550395506-4givsraprgbst82dqbor9sd50bvccgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVdMNyPkqthFJrqjybR_Nf24MdLOYdL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233550395506-4givsraprgbst82dqbor9sd50bvccgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
